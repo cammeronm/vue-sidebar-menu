@@ -2,9 +2,6 @@
 
 A Vue.js Sidebar Menu Component
 
-## Demo
-
-[vue-sidebar-menu-demo](https://yaminncco.github.io/vue-sidebar-menu/)
 
 ## Installation
 
